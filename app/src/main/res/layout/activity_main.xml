@@ -30,11 +30,11 @@
             android:hint="Username"
             android:textColor="@color/white"
             android:textColorHint="@color/white"
-            android:textSize="20sp"
-            android:background="@drawable/rounded_corner"
-            android:padding="18dp"
-            android:inputType="text"
-            android:id="@+id/username_input"/>
+        android:textSize="20sp"
+        android:background="@drawable/rounded_corner"
+        android:padding="18dp"
+        android:inputType="text"
+        android:id="@+id/username_input"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -59,8 +59,6 @@
             android:layout_marginTop="32sp"
             android:textSize="20sp"
             android:id="@+id/login_button"/>
-
-
 
 
     </LinearLayout>
